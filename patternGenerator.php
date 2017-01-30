@@ -195,8 +195,8 @@ function writeInputBox($txtName,$aQS) {
 	   q="cf-w2a .5ank c .5knee  c   .5thig  c    fr    c        c       rr         c   .5thig    c    .5knee   c   .5ank"
        id="path4138"
        inkscape:connector-curvature="0" />
-<form id="measuremetsForm">
- <a href="catsuit.htm">return to main page</a>
+<form id="measurementsForm">
+ <a href="patterns.htm">return to main page</a>
 <h1>Bodice pattern calculator</h1>
 (All measurements in inches)<br>
 neck:<? writeInputBox("n",$arrQS) ?> <br>
